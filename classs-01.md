@@ -39,9 +39,9 @@ HTTP's magic, the melody it sings.
 
 # JavaScript basics Cont.
 Describe how HTML, CSS, and JS files are “parsed” in the browser:
-HTML: The browser begins by parsing the HTML file, which defines the structure and content of the web page. It reads the HTML document from top to bottom, starting with the opening <html> tag and ending with the closing </html> tag. During this process, the browser identifies various elements such as headers, paragraphs, images, links, 
+HTML: The browser begins by parsing the HTML file, which defines the structure and content of the web page. It reads the HTML document from top to bottom, starting with the opening "<html>" tag and ending with the closing "</html>" tag. During this process, the browser identifies various elements such as headers, paragraphs, images, links, 
 and more.
-As the HTML is parsed, the browser constructs a tree-like structure called the Document Object Model (DOM). The DOM represents the hierarchical relationship between different HTML elements, with the <html> tag as the root and nested elements as branches and leaves. This tree structure allows the browser to understand how the elements are organized on the page.
+As the HTML is parsed, the browser constructs a tree-like structure called the Document Object Model (DOM). The DOM represents the hierarchical relationship between different HTML elements, with the "<html>" tag as the root and nested elements as branches and leaves. This tree structure allows the browser to understand how the elements are organized on the page.
 CSS: After the HTML parsing is complete, the browser moves on to parse the CSS (Cascading Style Sheets) files associated with the web page. CSS defines the presentation and layout of the HTML elements. The browser reads the CSS files and matches the styles to the corresponding HTML elements.
 During CSS parsing, the browser creates a separate structure known as the CSS Object Model (CSSOM). This model represents the styles defined in the CSS files, including properties like color, font, size, positioning, and more. The CSSOM is then combined with the DOM to create a Render Tree.
 JS: If the web page includes JavaScript files, the browser proceeds with parsing and executing them. JavaScript adds interactivity and dynamic behavior to the web page. When parsing JavaScript, the browser identifies functions, variables, loops, and other constructs and builds an abstract syntax tree (AST).
@@ -64,9 +64,9 @@ Describe the Anatomy of an HTMl element:
 Starts with an opening tag followed by the element name followed by attributes followed by the content followed by self-closing tag followed by closing tag.
 Together, these components form the structure of an HTML element, defining its type, attributes, content, and boundaries. HTML elements can be nested inside each other to create a hierarchical structure, allowing for the construction of complex web pages.
 
-What is the Difference between <article> and <section> element tags?
+What is the Difference between "<article>" and "<section>" element tags?
 The <article> element represents a self-contained, complete, and independently distributable composition within a document. It typically encapsulates content that could be considered a standalone entity, such as a blog post, news article, forum post, or a product description. It should make sense on its own and be meaningful even when extracted from the surrounding context.
-The <section> element defines a thematic grouping of content within a document. It represents a standalone section or a logical block of related content that forms part of a larger whole. It doesn't carry the same standalone significance as an <article> but provides a way to organize and structure content based on a common theme or topic.
+The "<section>" element defines a thematic grouping of content within a document. It represents a standalone section or a logical block of related content that forms part of a larger whole. It doesn't carry the same standalone significance as an "<article>" but provides a way to organize and structure content based on a common theme or topic.
 
 What Elements does a “typical” website include?
 Header, navigation menu, hero section, content sections, footer, contact information, call-to-action buttons, social media integration, images and media, footer navigation.
@@ -74,8 +74,8 @@ Header, navigation menu, hero section, content sections, footer, contact informa
 How does metadata influence Search Engine Optimization?
 Metadata plays a crucial role in Search Engine Optimization (SEO) by providing valuable information to search engines about the content and context of web pages. 
 
-How is the <meta> HTML tag used when specifying metadata?
-The <meta> HTML tag is used to specify various types of metadata about an HTML document. It provides information to browsers and search engines but is not displayed directly to website visitors. The <meta> tag is typically placed within the <head> section of an HTML document.
+How is the "<meta>" HTML tag used when specifying metadata?
+The "<meta>" HTML tag is used to specify various types of metadata about an HTML document. It provides information to browsers and search engines but is not displayed directly to website visitors. The "<meta>" tag is typically placed within the "<head>" section of an HTML document.
 
 # Miscellaneous
 How to start to design a website:
@@ -88,7 +88,7 @@ what is the goal an purpose of this website?
 
 Semantics:
 
-Why should you use an <h1> element over a <span> element to display a top level heading?
+Why should you use an "<h1>" element over a <span> element to display a top level heading?
 Semantic Meaning, SEO Benefits, and accessibility
 
 What are the benefits of using semantic tags in our HTML?
