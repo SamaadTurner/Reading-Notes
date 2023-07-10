@@ -1,5 +1,5 @@
 # How the Web Works
-This topic matters becaause it is the basis of this course...
+This topic matters because it is the basis of this course...
 
 Article provides a simple view of what happens when a webpage is viewed in a web browser on your computer or phone. 
 Computers connected to the internet are called clients and servers. Clients are usually web user's internet-connected devices.
@@ -16,7 +16,7 @@ The browser generates an in-memory DOM tree from the parsed HTML, generates an i
 As the browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JavaScript, a visual representation of the page is painted to the screen, and the user sees the page content and can begin to interact with it.
 
 # What will your website look like?
-This topic matters becaause it is the basis of this course...
+This topic matters because it is the basis of this course...
 
 What should your website be about?
 What information are you presenting on the subject?
@@ -25,7 +25,7 @@ Sketching out your design: On paper.
 Choosing your assets: text, theme color, images, font.
 
 # JavaScript basics
-This topic matters becaause it is the basis of this course...
+This topic matters because it is the basis of this course...
 
 JavaScript is a programming language that adds interactivity to a website.
 Comments are snippets of text that can be added along with code. The browser ignores text marked as comments. 
@@ -55,7 +55,7 @@ What is a Variable and why are they important in JavaScript?
 In programming, a variable is a named container or storage location used to store data. Variables in JavaScript are important becaause they serve as the building blocks of programs, allowing for data storage, manipulation, reusability, and interactivity. They provide the flexibility and power required to create dynamic and functional applications.
 
 # Introduction to HTML
-This topic matters becaause it is the basis of this course...
+This topic matters because it is the basis of this course...
 
 What is an HTML attribute: 
 extra information about the element that wont appear in the context.
