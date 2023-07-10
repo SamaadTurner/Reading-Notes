@@ -106,6 +106,5 @@ Inline JavaScript.
 
 
 ## Things I want to know more about  
-
-
+Why is HTML so time consuming?
 
