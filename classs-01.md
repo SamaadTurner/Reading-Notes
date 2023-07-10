@@ -49,7 +49,7 @@ Once the parsing is complete, the browser executes the JavaScript code, manipula
 By parsing HTML, CSS, and JavaScript files, the browser creates the necessary structures (DOM, CSSOM, and AST) and combines them into a Render Tree. The Render Tree represents the final layout of the web page, including all visible elements, their styles, and the hierarchy in which they appear. Finally, the browser uses the Render Tree to render and display the web page on the user's screen.  
 How can you find images to add to a Website?  
 Google images  
-How do you create a String vs a Number in JavaScript?
+How do you create a String vs a Number in JavaScript?  
 let myString = "Hello, World!"; OR let myString = "Hello, World!";  
 What is a Variable and why are they important in JavaScript?  
 In programming, a variable is a named container or storage location used to store data.   Variables in JavaScript are important becaause they serve as the building blocks of programs, allowing for data storage, manipulation, reusability, and interactivity. They provide the flexibility and power required to create dynamic and functional applications.  
