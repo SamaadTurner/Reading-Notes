@@ -1,7 +1,7 @@
 # How the Web Works
 This topic matters because it is the basis of this course...
 
-Article provides a simple view of what happens when a webpage is viewed in a web browser on your computer or phone. 
+Article provides a simple view of what happens when a webpage is viewed in a web browser on your computer or phone.   
 Computers connected to the internet are called clients and servers. Clients are usually web user's internet-connected devices.
 Servers are usually computers that store webpages, sites, or apps.
 Internet Connection: Allows you to send and recieve data on the web.
