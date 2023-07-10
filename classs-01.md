@@ -2,8 +2,8 @@
 This topic matters because it is the basis of this course...
 
 Article provides a simple view of what happens when a webpage is viewed in a web browser on your computer or phone.   
-Computers connected to the internet are called clients and servers. Clients are usually web user's internet-connected devices.
-Servers are usually computers that store webpages, sites, or apps.
+Computers connected to the internet are called clients and servers. Clients are usually web user's internet-connected devices.  
+Servers are usually computers that store webpages, sites, or apps.  
 Internet Connection: Allows you to send and recieve data on the web.
 TCP/IP: Both are communication protocols that define how data should travel across the internet.
 DNS: Like an address book for websites. 
@@ -88,7 +88,7 @@ what is the goal an purpose of this website?
 
 Semantics:
 
-Why should you use an "<h1>" element over a <span> element to display a top level heading?
+Why should you use an "&lt;h1>" element over a <span> element to display a top level heading?
 Semantic Meaning, SEO Benefits, and accessibility
 
 What are the benefits of using semantic tags in our HTML?
