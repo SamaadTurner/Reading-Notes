@@ -74,8 +74,8 @@ Header, navigation menu, hero section, content sections, footer, contact informa
 How does metadata influence Search Engine Optimization?  
 Metadata plays a crucial role in Search Engine Optimization (SEO) by providing valuable information to search engines about the content and context of web pages.   
 
-How is the "<meta>" HTML tag used when specifying metadata?  
-The "<meta>" HTML tag is used to specify various types of metadata about an HTML document. It provides information to browsers and search engines but is not displayed directly to website visitors. The "<meta>" tag is typically placed within the "<head>" section of an HTML document.  
+How is the "&lt;meta>" HTML tag used when specifying metadata?  
+The "&lt;meta>" HTML tag is used to specify various types of metadata about an HTML document. It provides information to browsers and search engines but is not displayed directly to website visitors. The "&lt;meta>" tag is typically placed within the "&lt;head>" section of an HTML document.  
 
 # Miscellaneous
 How to start to design a website:  
