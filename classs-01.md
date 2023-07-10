@@ -64,7 +64,7 @@ Describe the Anatomy of an HTMl element:
 Starts with an opening tag followed by the element name followed by attributes followed by the content followed by self-closing tag followed by closing tag.  
 Together, these components form the structure of an HTML element, defining its type, attributes, content, and boundaries. HTML elements can be nested inside each other to create a hierarchical structure, allowing for the construction of complex web pages.  
 
-What is the Difference between "<article>" and "<section>" element tags?  
+What is the Difference between "&lt;article>" and "&lt;section>" element tags?  
 The <article> element represents a self-contained, complete, and independently distributable composition within a document. It typically encapsulates content that could be considered a standalone entity, such as a blog post, news article, forum post, or a product description. It should make sense on its own and be meaningful even when extracted from the surrounding context.
 The "<section>" element defines a thematic grouping of content within a document. It represents a standalone section or a logical block of related content that forms part of a larger whole. It doesn't carry the same standalone significance as an "<article>" but provides a way to organize and structure content based on a common theme or topic.  
 
@@ -105,7 +105,7 @@ Inline JavaScript.
 
 
 
-Things I want to know more about
+##Things I want to know more about
 
 
 
