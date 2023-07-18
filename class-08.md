@@ -43,7 +43,12 @@ column-reverse : the items lay out as a column from the end of the flex containe
    -  Flexbox offers better control over alignment and spacing, allowing for easy centering and equal distribution of items. It eliminates the need for clearing floats and avoids the associated complexities.
 2. How does this topic connect with your long term goals?
    - this connects with my longterm goal because I will be having to position things in the future on websites and here is another way to do it.
-   - 
+
+
+
+## Things I want to know more about  
+-flexbox
+ 
 
 
 
