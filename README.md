@@ -29,6 +29,7 @@
 - [Twelfth classs reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/class-12.md)
 - [Thirteenth class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/tree/main)
 - [Fourteenth class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/Class-14.md)
+- [Read: Class 14: Psychological Safety](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/Class-14-Psychological%20Safety.md)
   
   
 ## Code 301 - Intermediate Software Development
