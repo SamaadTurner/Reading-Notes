@@ -28,6 +28,8 @@
 - [Eleventh class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/class-11.md)
 - [Twelfth classs reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/class-12.md)
 - [Thirteenth class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/tree/main)
+- [Fourteenth class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/Class-14.md)
+  
   
 ## Code 301 - Intermediate Software Development
 
