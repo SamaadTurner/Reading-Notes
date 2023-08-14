@@ -33,6 +33,7 @@
   
   
 ## Code 301 - Intermediate Software Development
--[First class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/Class-01.md)
+-[First class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/Class-01.md)  
+
 
 ## Code 401 - Advanced Software Development
