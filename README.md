@@ -33,9 +33,11 @@
   
   
 ## Code 301 - Intermediate Software Development
--[First class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/Class-01.md)  
--[Second class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/301-Class-02.md)
--[Third class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/301-Class-03.md)
+- [First class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/Class-01.md)  
+- [Second class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/301-Class-02.md)
+- [Third class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/301-Class-03.md)
+- [Fourth class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/301-Class-04.md)
+- [Fifth class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/301-Class-05.md)
 
 
 
