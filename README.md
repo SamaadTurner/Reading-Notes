@@ -38,7 +38,15 @@
 - [Third class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/301-Class-03.md)
 - [Fourth class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/301-Class-04.md)
 - [Fifth class reading notes](https://github.com/SamaadTurner/SamaadTurner.github.io/blob/main/301-Class-05.md)
-
+- [Sixth class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/301-Class-06.md)
+- [Seventh class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/301-Class-07.md)
+- [Eighth class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/301-Class-08.md)
+- [Ninth class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/301-Class-09.md)
+- [Tenth class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/301-Class-10.md)
+- [Eleventh class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/301-Class-11.md)
+- [Twelfth class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/301-Class-12.md)
+- [Thirteenth class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/301-Class-13.md)
+- [Fourteenth class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/301-Class-14.md)
 
 
 ## Code 401 - Advanced Software Development
