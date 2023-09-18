@@ -42,4 +42,4 @@
 
 
 ## Code 401 - Advanced Software Development
--[First class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/401-Class-01.md)
+- [First class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/401-Class-01.md)
