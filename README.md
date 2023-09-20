@@ -50,7 +50,9 @@
 
 
 ## Code 401 - Advanced Software Development
-- [First class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/401-Class-01.md
+- [First class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/401-Class-01.md)
+- [Second class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/401-Class-02.md)
+- [Third class reading notes](https://github.com/SamaadTurner/Reading-Notes/blob/main/401-Class-03.md)
 
 
 
@@ -62,4 +64,4 @@
 
 
 ## Introduction to SQL
--[Introduction to SQL](https://github.com/SamaadTurner/Reading-Notes/blob/main/introduction-to-sql.md)
+- [Introduction to SQL](https://github.com/SamaadTurner/Reading-Notes/blob/main/introduction-to-sql.md)
