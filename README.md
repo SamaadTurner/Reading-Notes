@@ -56,12 +56,9 @@
 
 
 
-
-
-
-
-
-
-
 ## Introduction to SQL
 - [Introduction to SQL](https://github.com/SamaadTurner/Reading-Notes/blob/main/introduction-to-sql.md)
+
+
+## Practice in the Terminal
+- [Practice in the Terminal](https://github.com/SamaadTurner/Reading-Notes/blob/main/practice-in-terminal.md)
